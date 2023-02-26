@@ -1,0 +1,34 @@
+
+接下来由我来介绍一下关于摄氏温标与华氏温标的关系：首先，华氏温标与摄氏温标有很多不同之处,例如:在华氏温标中，
+0°F是冰、水、氯化铵和氯化钠的混合物的熔点，水的沸点是212°F；而在摄氏温标中，0°C是冰的熔点，水的沸点是100°C；
+然后让我们来看一看摄氏温度和华氏温度的关系：T ℉ = 1.8t℃ + 32 （t为摄氏温度数，T为华氏温度数）。如今，包括我国在内的世界上绝大多数国家都使用摄氏度；
+世界上仅存5个国家使用华氏度，包括巴哈马、伯利兹、英属开曼群岛、帕劳、美利坚合众国及其他附属领土。
+
+
+Next, I will introduce the relationship between Celsius scale and Fahrenheit scale. First, there are many differences between Fahrenheit scale and Celsius scale. For example, in Fahrenheit scale,
+
+0°F is the melting point of a mixture of ice, water, ammonium chloride, and sodium chloride; water boils at 212°F; 
+On the Celsius scale, 0 degrees is the melting point of ice, and the boiling point of water is 100 degrees;
+
+Then let's look at the relationship between Celsius and Fahrenheit: T ℉ = 1.8t℃ + 32 (t is the number of degrees Celsius and T is the number of degrees Fahrenheit). 
+Today, most countries in the world, including our own, use Celsius;
+
+Only five other countries in the world use Fahrenheit, including the Bahamas, Belize, the British Cayman Islands, Palau, the United States of America and other dependent territories.
+
+
+包括我国在内的世界上绝大多数国家都使用摄氏度；
+世界上仅存5个国家使用华氏度，包括巴哈马、伯利兹、英属开曼群岛、帕劳、美利坚合众国及其他附属领土。
+Most countries in the world, including our own, use Celsius;
+Only five other countries in the world use Fahrenheit, including the Bahamas, Belize, the British Cayman Islands, Palau, 
+the United States of America and other dependent territories .
+
+摄氏温度和华氏温度的关系 ：
+
+The relationship between Celsius and Fahrenheit temperature is as follows: 
+T ℉ = 1.8t℃ + 32 (t is the number of degrees Celsius and T is the number of degrees Fahrenheit).
+T degrees Fahrenheit is equal to 1.8t degrees Celsius plus sign 32.
+
+华氏温标与摄氏温标有很多不同之处,例如:在华氏温标中，0°F是冰、水、氯化铵和氯化钠的混合物的熔点，水的沸点是212°F；而在摄氏温标中，0°C是冰的熔点，水的沸点是100°C
+The Fahrenheit scale differs from the Celsius scale in many ways. For example, on the Fahrenheit scale, 
+0°F is the melting point of a mixture of ice, water, ammonium chloride, and sodium chloride, while the boiling point of water is 212°F; 
+On the Celsius scale, 0 degrees is the melting point of ice, and the boiling point of water is 100 degrees
