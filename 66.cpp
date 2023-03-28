@@ -1,10 +1,12 @@
 #include<iostream>
 #include<boost/format.hpp>
 using namespace std;
-int main()
-{
-    //目前编译器暂不支持C++20的format，这里使用boost::format
-    cout<<boost::format("There are %d ways I love you.") % 214<<endl;
-
+int main(){
+    int a,b,c,d,e;
+    cin>>a>>b>>c>>d>>e;
+    cout<<"Hello!"<<endl;
+    cout<<"F U C K E R"<<endl;
+    cout<<"a+b+c+d+e="<<a+b+c+d+e<<endl;
+    cout<<"中文"<<endl;
     return 0;
 }
